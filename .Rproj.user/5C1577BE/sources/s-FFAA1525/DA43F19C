@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584383711084.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DA43F19C",
+    "lastKnownWriteTime" : 1584453757,
+    "last_content_update" : 1584453757843,
+    "path" : "D:/R/RShiny/Sample/ui.R",
+    "project_path" : "Sample/ui.R",
+    "properties" : {
+        "cursorPosition" : "306,19",
+        "scrollLine" : "295"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,7 @@
+library(dplyr)
+Questions1 <- Questions %>% 
+  filter(QID==1)
+Questions1
+
+
+rm(Questions1)

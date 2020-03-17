@@ -1,0 +1,6 @@
+
+library(data.table)
+
+set()
+####WWW Tables####
+Questions <- data.table::fread('./www/FunnyQuestions.csv', na.strings = '')
